@@ -6,6 +6,6 @@ export default defineConfig(() => {
     build: {
       outDir: 'build',
     },
-    plugins: [react()],base:'/image-carousel-one-hooks'
+    plugins: [react()],base:'/image-carousel-hooks'
   };
 });
